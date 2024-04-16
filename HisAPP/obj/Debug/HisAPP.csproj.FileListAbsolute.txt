@@ -1,0 +1,236 @@
+C:\Users\ztz\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\HisAPP\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\ztz\Desktop\HisAPP\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\ztz\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\st\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\st\Desktop\HisAPP\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\st\Desktop\HisAPP\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\st\Desktop\HisAPP\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csprojAssemblyReference.cache
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\st\Desktop\HisAPP\HisAPP\obj\Debug\HisAPP.pdb
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.csprojAssemblyReference.cache
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form1.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form2.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form3.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form4.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form5.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form6.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form7.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Form8.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.exe
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.pdb
+E:\结果\HisAPP\HisAPP\bin\Debug\HisAPP.exe.config
+E:\结果\HisAPP\HisAPP\bin\Debug\HisAPP.exe
+E:\结果\HisAPP\HisAPP\bin\Debug\HisAPP.pdb
+E:\结果\HisAPP\HisAPP\bin\Debug\MySql.Data.dll
+E:\结果\HisAPP\HisAPP\bin\Debug\MySql.Data.xml
+E:\结果\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csprojAssemblyReference.cache
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\DJ\Desktop\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form9.resources
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\bin\Debug\MySqlBackup.dll
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\新建文件夹 (2)\HisAPP(接近完成版)\HisAPP\obj\Debug\HisAPP.Form10.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\bin\Debug\MySql.Data.dll
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.exe.config
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form10.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Form9.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\ztz\Desktop\HisAPP(最终版)\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form10.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Form9.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.pdb
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.exe.config
+C:\Users\xiexin\Downloads\Hosptial-System-main\Hosptial-System-main\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.exe.config
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.exe
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.pdb
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\bin\Debug\MySql.Data.xml
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.exe.config
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form1.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form10.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form2.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form3.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form4.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form5.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form6.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form7.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form8.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form9.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.exe
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.pdb
+E:\demoX\待做_医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form11.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.exe.config
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.exe
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\HisAPP.pdb
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\System.Memory.dll
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\System.Buffers.dll
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\bin\Debug\MySql.Data.xml
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.AssemblyReference.cache
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.exe.config
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form1.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form10.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form11.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form2.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form3.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form4.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form5.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form6.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form7.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form8.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Form9.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.Properties.Resources.resources
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.GenerateResource.cache
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.CoreCompileInputs.cache
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.csproj.CopyComplete
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.exe
+C:\Users\30200\source\repos\医院系统winfrom_mysql\HisAPP\obj\Debug\HisAPP.pdb
